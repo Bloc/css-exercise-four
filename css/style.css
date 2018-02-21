@@ -2,13 +2,9 @@
   box-sizing: border-box;
 }
 
-html,body {
+body {
   background-color: #dadada;
   font-size: 10px;
-  font-family: sans-serif;
-  margin: 1%;
-  height: 100%;
-  width: 100%;
 }
 
 .container {
