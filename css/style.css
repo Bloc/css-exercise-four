@@ -47,7 +47,7 @@ body {
   background-position: left;
 }
 
-@media (min-width: 575px) {
+@media (min-width: 600px) {
 .container {
  width: 80%;
   margin: 0 auto;
@@ -62,7 +62,7 @@ body {
 }
 
   
-  @media (min-width: 991px) {
+  @media (min-width: 900px) {
   .container  {
     width: 70%;
     }
